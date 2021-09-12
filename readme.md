@@ -1,0 +1,1 @@
+A bootcamp exercise to use Django with a template and a static file (stylesheet in this case), displaying a clock.
